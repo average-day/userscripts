@@ -5,8 +5,7 @@
 // @description	Hides annoying recommendations from related videos list
 // @grant		none
 // @include		http://www.youtube.com/watch?v=*
-// @include		https://www.youtube.com/watch?v=*
-// @require		http://code.jquery.com/jquery-latest.js
+// @include		https?://www.youtube.com/watch?v=*
 // @updateURL	https://github.com/average-day/userscripts/fYoutube.js
 // @downloadURL	https://github.com/average-day/userscripts/fYoutube.js
 // ==/UserScript==
