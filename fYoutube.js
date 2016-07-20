@@ -8,6 +8,7 @@
 // @include		https://www.youtube.com/watch?v=*
 // @updateURL	https://github.com/average-day/userscripts/fYoutube.js
 // @downloadURL	https://github.com/average-day/userscripts/fYoutube.js
+// @require		https://code.jquery.com/jquery-3.1.0.slim.min.js
 // ==/UserScript==
 
 (function _Sp8F$PigQCJ() {
